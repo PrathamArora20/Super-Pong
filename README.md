@@ -4,11 +4,11 @@ This is a 2 player local multiplier game. This game is like the classic pong gam
 
 The Controls for the games are 
 
-Player 1 - 'q' for paddle to go up 
+Player 1 - 'q' for paddle to go up ,
            'a' for paddle to go down
            
           
-Player 2 - 'p' for paddle to go up 
+Player 2 - 'p' for paddle to go up ,
            'l' for paddle to go down
            
            
