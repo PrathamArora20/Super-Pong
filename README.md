@@ -16,7 +16,7 @@ Player 2 - 'p' for paddle to go up ,
            
            
            
-There are also hidden randomly generated powerup which change the size and shape of the ball. Find the game what each powerup does!!
+There are also hidden randomly generated powerup which change the size and shape of the ball. Play the game to fin what each powerup does!!
 
 The game counts the scorecard for each player on the top corners. First player to reach 11 would win . 
 
