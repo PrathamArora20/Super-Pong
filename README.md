@@ -2,6 +2,9 @@
 
 This is a 2 player local multiplier game. This game is like the classic pong game where the object of the game is to hit the ball to the opposition players side while avoiding the ball getting hit in our own side.
 
+![image](https://user-images.githubusercontent.com/93953652/158016173-2d75bb52-196c-4e9a-bf5b-b547fd96f591.png)
+
+
 The Controls for the games are 
 
 Player 1 - 'q' for paddle to go up ,
